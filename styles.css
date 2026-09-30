@@ -181,13 +181,13 @@ body{min-height:100vh}.app-shell{max-width:720px;margin:auto;min-height:100vh;ba
   left:10px!important;
   top:14px!important;
   width:29%!important;
-  height:210px!important;
+  height:220px!important;
   object-fit:contain!important;
   object-position:left bottom!important;
   z-index:2;
 }
 .dashboard-logo{
-  left:29%!important;
+  left:32%!important;
   right:128px!important;
   top:14px!important;
   width:auto!important;
@@ -207,7 +207,7 @@ body{min-height:100vh}.app-shell{max-width:720px;margin:auto;min-height:100vh;ba
 @media(max-width:520px){
   .hero .duck-art{
     left:8px!important;
-    top:16px!important;
+    top:12px!important;
     width:28%!important;
     height:194px!important;
   }
